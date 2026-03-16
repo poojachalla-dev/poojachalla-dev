@@ -65,6 +65,7 @@ More projects coming soon 🚀
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/poojachalla
+
 GitHub: https://github.com/poojachalla-dev
 
 ⭐ Always learning and building projects in **data, machine learning, and AI**.
