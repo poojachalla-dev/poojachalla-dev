@@ -76,9 +76,6 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 |---------|-------------|--------|------|
 | 🛒 **[E-Commerce Sales Analysis](https://github.com/poojachalla-dev/leetcode)** | Revenue trends, top products & customer behavior from transaction data | ✅ Complete | SQL |
 | 🔍 **Exploratory Data Analysis** | Data cleaning & pattern discovery on business datasets | ✅ Complete | R |
-| 🐍 **Python Data Analysis** | Dataset analysis with visualizations & insights | 🔄 In Progress | Python · Pandas · Matplotlib |
-| 🤖 **Machine Learning Project** | Predictive models from structured datasets | 🔜 Coming Soon | Python · Scikit-learn |
-| 🧠 **GenAI Data Assistant** | AI assistant that analyzes datasets and answers questions | 🔜 Coming Soon | Python · LLMs |
 
 ---
 
