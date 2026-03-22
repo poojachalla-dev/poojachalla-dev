@@ -85,7 +85,9 @@ I recently completed the **Google Data Analytics Certificate** and I'm building 
 ## 🏆 Certifications
 
 - 🎓 **Google Data Analytics Certificate** — Google / Coursera
-
+- 📊 **Google Data Analytics (with Credential ID)** - Google
+- ☕ **Oracle Certified Professional Java SE 8** - Oracle
+- ⚡ **SAFe Agilist** - Anthem, Inc.
 ---
 
 <div align="center">
