@@ -16,7 +16,7 @@
 
 ## 🙋‍♀️ About Me
 
-I recently completed the **Google Data Analytics Certificate** and I'm building hands-on projects to apply data analysis, machine learning, and AI techniques to real-world datasets. I'm passionate about the full journey — from messy raw data to clear, actionable insights.
+With a background as a **Senior UI Developer** (Angular, React, TypeScript) at companies like Anthem and UPS, I've pivoted into the world of **data analytics and AI**. I recently completed the **Google Data Analytics Certificate** and Harvard's **CS50 Python** course, and I'm now building hands-on projects applying data analysis, machine learning, and AI to real-world datasets. I bring the discipline of enterprise software development to every data problem I tackle.
 
 ---
 
@@ -82,12 +82,45 @@ I recently completed the **Google Data Analytics Certificate** and I'm building 
 
 ---
 
+## 💼 Experience
+
+### Senior UI Developer — Anthem, Inc. *(Contract)*
+📍 Dallas, Texas · On-site &nbsp;|&nbsp; 🗓️ Oct 2018 – Dec 2020 *(2 yrs 3 mos)*
+
+Led the migration of Anthem's Medicaid & Medicare Advantage public provider portals from **Microsoft SharePoint 2007 → Oracle Web Center Sites**, consolidating content across multiple Lines of Business and introducing an enterprise-wide content strategy.
+
+- 🔄 Migrated multi-market portals to Oracle WCS with CSS-SASS per market, improving accessibility and UX
+- 🔍 Built **predictive keyword search** and **drug-search** features using Angular for provider-facing tools
+- 📱 Developed front-end screens with **React JS + Redux**, leveraging NPM component libraries
+- 📐 Implemented **Responsive Web Design (RWD)** for consistent layout across all screen sizes
+- 🏗️ Deployed **Enterprise Digital Asset Management (DAM)** tool for centralized document repositories
+- 🛠️ Stack: `HTML5` `CSS3` `SASS/LESS` `Bootstrap` `Angular 9` `React JS` `Redux` `NPM` `Gulp`
+
+---
+
+### UI Developer — UPS *(Contract)*
+📍 New Jersey · Remote &nbsp;|&nbsp; 🗓️ May 2018 – Aug 2018 *(4 mos)*
+
+Contributed to UPS's SDLC by building dynamic, interactive user interfaces across multiple applications, with a focus on Angular component architecture and React state management.
+
+- 🧩 Built **Angular components** with Bootstrapping, NgFor, NgIf, Router Outlet, and custom pipes for data formatting
+- ⚛️ Integrated **React Redux** framework for scalable unidirectional data flow in large-data applications
+- 🔌 Created **TypeScript reusable components & services** to consume REST APIs via Angular 4's component-based architecture
+- 📦 Used Angular libraries: `ng2-datepicker`, `@angular/material`, Angular Webpack
+- 🛠️ Stack: `HTML5` `CSS3` `JavaScript` `TypeScript` `ES6` `jQuery` `Angular 4/5` `React JS` `Redux`
+
+---
+
 ## 🏆 Certifications
 
-- 🎓 **Google Data Analytics Certificate** — Google / Coursera
-- 📊 **Google Data Analytics (with Credential ID)** - Google
-- ☕ **Oracle Certified Professional Java SE 8** - Oracle
-- ⚡ **SAFe Agilist** - Anthem, Inc.
+| Badge | Certification | Issuer | Year |
+|-------|--------------|--------|------|
+| 🎓 | **[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)** | Google / Coursera | Mar 2026 |
+| 📊 | **Google Data Analytics** `ID: QLBU25B32Y5E` | Google | Mar 2026 |
+| 🐍 | **CS50's Introduction to Programming with Python** | Harvard University | — |
+| ☕ | **Oracle Certified Professional, Java SE 8 Programmer I (OCP)** | Oracle | May 2016 |
+| ⚡ | **SAFe Agilist Certification** · *Agile Methodologies* | Anthem, Inc. | Oct 2018 |
+
 ---
 
 <div align="center">
