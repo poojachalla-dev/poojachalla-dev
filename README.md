@@ -74,8 +74,8 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
-| 🛒 **[E-Commerce Sales Analysis]([https://github.com/poojachalla-dev/online_retail_SQL])** | Revenue trends, top products & customer behavior from transaction data | ✅ Complete | SQL |
-| 🔍 **[Exploratory Data Analysis]([https://github.com/poojachalla-dev/superstore-sales-eda])** | Data cleaning & pattern discovery on business datasets | ✅ Complete | R |
+| 🛒 **[E-Commerce Sales Analysis](https://github.com/poojachalla-dev/online_retail_SQL)** | Revenue trends, top products & customer behavior from transaction data | ✅ Complete | SQL |
+| 🔍 **[Exploratory Data Analysis](https://github.com/poojachalla-dev/superstore-sales-eda)** | Data cleaning & pattern discovery on business datasets | ✅ Complete | R |
 
 ---
 
@@ -114,7 +114,6 @@ Contributed to UPS's SDLC by building dynamic, interactive user interfaces acros
 |-------|--------------|--------|------|
 | 🎓 | **[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)** | Google / Coursera | Mar 2026 |
 | 📊 | **Google Data Analytics** `ID: QLBU25B32Y5E` | Google | Mar 2026 |
-| 🐍 | **CS50's Introduction to Programming with Python** | Harvard University | — |
 | ☕ | **Oracle Certified Professional, Java SE 8 Programmer I (OCP)** | Oracle | May 2016 |
 | ⚡ | **SAFe Agilist Certification** · *Agile Methodologies* | Anthem, Inc. | Oct 2018 |
 
