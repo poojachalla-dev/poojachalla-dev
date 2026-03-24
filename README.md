@@ -74,8 +74,8 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
-| 🛒 **[E-Commerce Sales Analysis](https://github.com/poojachalla-dev/leetcode)** | Revenue trends, top products & customer behavior from transaction data | ✅ Complete | SQL |
-| 🔍 **Exploratory Data Analysis** | Data cleaning & pattern discovery on business datasets | ✅ Complete | R |
+| 🛒 **[E-Commerce Sales Analysis]([https://github.com/poojachalla-dev/online_retail_SQL])** | Revenue trends, top products & customer behavior from transaction data | ✅ Complete | SQL |
+| 🔍 **[Exploratory Data Analysis]([https://github.com/poojachalla-dev/superstore-sales-eda])** | Data cleaning & pattern discovery on business datasets | ✅ Complete | R |
 
 ---
 
