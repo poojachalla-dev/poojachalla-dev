@@ -55,21 +55,18 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 ![Data Viz](https://img.shields.io/badge/Data%20Viz-✓-4CAF50?style=flat-square)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-✓-4CAF50?style=flat-square)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojachalla-dev&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=poojachalla-dev&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojachalla-dev&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachalla-dev&layout=compact&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=poojachalla-dev&theme=default&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=poojachalla-dev&theme=default&hide_border=true" />
 
 </div>
 
----
 
 ## 📁 Projects
 
