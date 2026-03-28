@@ -61,7 +61,7 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 
 <img src="https://github-readme-stats.vercel.app/api?username=poojachalla-dev&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachalla-dev&layout=compact&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojachalla-dev&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 <img src="https://streak-stats.demolab.com?user=poojachalla-dev&theme=default&hide_border=true" />
 
