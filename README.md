@@ -59,11 +59,7 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poojachalla-dev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poojachalla-dev&theme=tokyo-night)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojachalla-dev&layout=compact)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojachalla-dev&theme=default)
 
