@@ -72,6 +72,7 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
+| 📈 **[Stock Market Performance Analyser](https://github.com/poojachalla-dev/Stock-Market-Performance-Analyzer)** | Built a full-stack interactive dashboard to analyse 10 major stocks with real-time data, technical indicators (RSI, Bollinger Bands, Moving Averages) and visualisations | ✅ Complete | Python, Pandas, NumPy, Plotly, Streamlit, yfinance |
 | 🔍 **[Student Data Engineering ETL Pipeline](https://github.com/poojachalla-dev/Student_Data_Engineering_ETL_Pipeline)** | Built an end-to-end ETL pipeline to transform raw student data into structured insights using SQL aggregation and visual analytics | ✅ Complete | Python, SQL, Pandas, Matplotlib, Seaborn |
 | 🛒 **[E-Commerce Sales Analysis](https://github.com/poojachalla-dev/online_retail_SQL)** | Analyzed transaction data to uncover revenue trends, top-performing products, and customer purchasing behavior | ✅ Complete | SQL |
 | 📊 **[Superstore Sales EDA](https://github.com/poojachalla-dev/superstore-sales-eda)** | Performed exploratory data analysis to clean data and identify business patterns and key insights | ✅ Complete | R |
