@@ -20,12 +20,12 @@ With a background as a **Senior UI Developer (Angular, React, TypeScript)** at c
 
 I recently completed the **Google Data Analytics Certificate and Harvard's CS50 Python course**, and I’m currently focused on building strong foundations in:
 
-**Machine Learning**
-**Deep Learning**
-**Neural Networks**
-**TensorFlow**
-**AI Systems**
-**Model Optimization**
+## Machine Learning
+## Deep Learning
+## Neural Networks
+## TensorFlow
+## AI Systems
+## Model Optimization
 
 I enjoy understanding how machine learning models work mathematically and applying them through hands-on projects. My software engineering background helps me approach AI with strong problem-solving, architecture, and real-world development skills.
 
