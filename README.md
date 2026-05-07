@@ -2,9 +2,9 @@
 
 # Hi there, I'm Pooja 👋
 
-### 🎯 Data Analyst · ML Enthusiast · AI Explorer
+### 🤖 Aspiring AI Engineer · Machine Learning Builder · Deep Learning Learner 
 
-*Turning raw information into meaningful insights and intelligent solutions*
+*Building intelligent systems with machine learning, neural networks, and real-world AI projects*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojachalla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojachalla-dev)
@@ -16,7 +16,18 @@
 
 ## 🙋‍♀️ About Me
 
-With a background as a **Senior UI Developer** (Angular, React, TypeScript) at companies like Anthem and UPS, I've pivoted into the world of **data analytics and AI**. I recently completed the **Google Data Analytics Certificate** and Harvard's **CS50 Python** course, and I'm now building hands-on projects applying data analysis, machine learning, and AI to real-world datasets. I bring the discipline of enterprise software development to every data problem I tackle.
+With a background as a **Senior UI Developer (Angular, React, TypeScript)** at companies like **Anthem and UPS**, I am now transitioning into the world of **Artificial Intelligence and Machine Learning**.
+
+I recently completed the **Google Data Analytics Certificate and Harvard's CS50 Python course**, and I’m currently focused on building strong foundations in:
+
+**Machine Learning**
+**Deep Learning**
+**Neural Networks**
+**TensorFlow**
+**AI Systems**
+**Model Optimization**
+
+I enjoy understanding how machine learning models work mathematically and applying them through hands-on projects. My software engineering background helps me approach AI with strong problem-solving, architecture, and real-world development skills.
 
 ---
 
@@ -24,21 +35,53 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 
 | Area | Topics |
 |------|--------|
-| 🗄️ **Data** | Advanced SQL · Python (Pandas, NumPy) · R |
-| 🤖 **AI / ML** | Machine Learning fundamentals · Generative AI applications |
-| 📊 **Visualization** | Data storytelling · Tableau · Matplotlib |
+| 🤖 **Artificial Intelligence** | Neural Networks · Deep Learning · TensorFlow · Activation Functions | 
+| 🧠 **Machine Learning** | Logistic Regression · Model Evaluation · Feature Engineering · Hyperparameter Tuning | 
+| 🐍 **Programming** | Advanced Python · NumPy · Pandas · Scikit-learn | 
+| 📊 **Visualization** | Matplotlib · Seaborn · Plotly | 
+| ⚙️ **Development** | Streamlit · GitHub · AI Project Deployment |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data & Analytics**
+### 🤖 AI / Machine Learning 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Data & Analytics
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### 📊 Data Visualization 
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4CAF50?style=flat-square) 
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) 
+
+### ⚙️ Tools & Platforms 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) 
+
+### 🧠 Core Skills 
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-✓-4CAF50?style=flat-square) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-✓-4CAF50?style=flat-square) 
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-✓-4CAF50?style=flat-square) 
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-✓-4CAF50?style=flat-square) 
+![Model Optimization](https://img.shields.io/badge/Model%20Optimization-✓-4CAF50?style=flat-square)
 
 **Tools & Platforms**
 
@@ -48,12 +91,6 @@ With a background as a **Senior UI Developer** (Angular, React, TypeScript) at c
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-**Skills**
-
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-✓-4CAF50?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-✓-4CAF50?style=flat-square)
-![Data Viz](https://img.shields.io/badge/Data%20Viz-✓-4CAF50?style=flat-square)
-![Business Insights](https://img.shields.io/badge/Business%20Insights-✓-4CAF50?style=flat-square)
 
 ## 📊 GitHub Stats
 
