@@ -152,6 +152,7 @@ Contributed to UPS's SDLC by building dynamic, interactive user interfaces acros
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
+| 🤖 | **[DeepLearning.AI & Stanford University Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/BJ3VCVY8L3FR)** |** Andrew Ng** / **Coursera** | Jun 2026 |
 | 🎓 | **[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)** | Google / Coursera | Mar 2026 |
 | 📊 | **Google Data Analytics** `ID: QLBU25B32Y5E` | Google | Mar 2026 |
 | ☕ | **Oracle Certified Professional, Java SE 8 Programmer I (OCP)** | Oracle | May 2016 |
