@@ -18,7 +18,7 @@
 
 With a background as a **Senior UI Developer (Angular, React, TypeScript)** at companies like **Anthem and UPS**, I am now transitioning into the world of **Artificial Intelligence and Machine Learning**.
 
-I recently completed the **Google Data Analytics Certificate and Harvard's CS50 Python course**, and I’m currently focused on building strong foundations in:
+I recently completed the **Google Data Analytics Certificate, Harvard's CS50 Python course and Andrew Ng's Machine Learning Specialization**, and I’m currently focused on building strong foundations in:
 
 ### Machine Learning
 ### Deep Learning
@@ -36,7 +36,7 @@ I enjoy understanding how machine learning models work mathematically and applyi
 | Area | Topics |
 |------|--------|
 | 🤖 **Artificial Intelligence** | Neural Networks · Deep Learning · TensorFlow · Activation Functions | 
-| 🧠 **Machine Learning** | Logistic Regression · Model Evaluation · Feature Engineering · Hyperparameter Tuning | 
+| 🧠 **Machine Learning** | Linear Regression · Logistic Regression · Decision Trees · Random Forest · Model Evaluation · Feature Engineering · Hyperparameter Tuning · Anomaly Detection |
 | 🐍 **Programming** | Advanced Python · NumPy · Pandas · Scikit-learn | 
 | 📊 **Visualization** | Matplotlib · Seaborn · Plotly | 
 | ⚙️ **Development** | Streamlit · GitHub · AI Project Deployment |
@@ -77,11 +77,51 @@ I enjoy understanding how machine learning models work mathematically and applyi
 
 ### 🧠 Core Skills 
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-✓-4CAF50?style=flat-square) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-✓-4CAF50?style=flat-square) 
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-✓-4CAF50?style=flat-square) 
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-✓-4CAF50?style=flat-square) 
-![Model Optimization](https://img.shields.io/badge/Model%20Optimization-✓-4CAF50?style=flat-square)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-✓-4CAF50?style=flat-square)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-✓-4CAF50?style=flat-square)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-✓-4CAF50?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-✓-4CAF50?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-✓-4CAF50?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-✓-4CAF50?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-✓-4CAF50?style=flat-square)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-✓-4CAF50?style=flat-square)
+
+## 🧠 Machine Learning Skills
+
+### Supervised Learning
+- Linear Regression
+- Logistic Regression
+- Classification
+- Regression Analysis
+
+### Model Evaluation
+- Train/Test Split
+- Cross Validation
+- Precision, Recall, F1-Score
+- ROC-AUC
+- Confusion Matrix
+
+### Feature Engineering
+- Data Cleaning
+- Missing Value Handling
+- Feature Scaling
+- One-Hot Encoding
+- Feature Selection
+
+### Machine Learning Algorithms
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- K-Means Clustering
+- Anomaly Detection
+
+### Machine Learning Libraries
+- Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 **Tools & Platforms**
 
